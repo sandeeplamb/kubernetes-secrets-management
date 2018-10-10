@@ -1,0 +1,3 @@
+creation_rules:
+    - kms: arn:aws:kms:us-east-1:123213123223:key/c156105b-c9a0-45ec-8777-07b2ebe419e9
+      pgp: 8EB6D0DB5DE68EA685CE8A95FF6DCEF76B4AFCDA
